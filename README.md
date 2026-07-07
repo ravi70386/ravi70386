@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi 👋, I'm Ravi Kumar</h1>
 
 <h3 align="center">
@@ -35,7 +34,7 @@ https://drive.google.com/file/d/1Q9CzxrtOggBs4Yiiq70Lj2x5crbRq3G9/view?usp=shari
 
 ## 🛠️ Cloud & DevOps Stack
 
-<p align="left">
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux,git,github,githubactions,postgres,mysql,redis,vscode" />
 
@@ -117,4 +116,17 @@ https://drive.google.com/file/d/1Q9CzxrtOggBs4Yiiq70Lj2x5crbRq3G9/view?usp=shari
 <h3 align="center">
 ⚡ Automating Infrastructure • Building Reliable Systems • Learning Every Day
 </h3>
-```
+
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravi70386&theme=tokyo-night&hide_border=true" />
+</p>
+
+
+## 📊 GitHub Summary Cards
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravi70386&theme=github_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ravi70386&theme=github_dark" />
+</p>
+
+
